@@ -931,6 +931,10 @@ star --runThreadN 20 --runMode genomeGenerate --genomeDir STARIndex --genomeFast
 
 #Sorghum
 ## STAR
+
+
+```
+
 ```{bash, echo = T, eval = F}
 #Rackham
 cd /proj/uppstore2017083/AM_rRNA_Raw_data/references/
@@ -956,7 +960,7 @@ dev.off()
 ```
 
 ###nM distribution after Disambiguate (assembly3n)
-```{r}
+```{r, eval = F}
 ## STAR After disambiguate
 library(ggplot2)
 path <- '~/SMS_5123_20_AM_fungi_annotation/'
