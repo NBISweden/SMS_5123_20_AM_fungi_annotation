@@ -1,0 +1,38 @@
+# stringtie Sample_TB-2463-32A_Filtered.bam --rf -o Sample_TB-2463-32A_XenofilteR_transcript.gtf -l Sample_TB-2463-32A_XenofilteR -p 10 -A Sample_TB-2463-32A_XenofilteR_abundance.txt
+# StringTie version 2.1.4
+contig001381	StringTie	transcript	12878	13129	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.1"; transcript_id "Sample_TB-2463-32A_XenofilteR.1.1"; cov "144.844574"; FPKM "21675.498047"; TPM "30158.195312";
+contig001381	StringTie	exon	12878	13129	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.1"; transcript_id "Sample_TB-2463-32A_XenofilteR.1.1"; exon_number "1"; cov "144.844574";
+contig001381	StringTie	transcript	13902	14129	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.2"; transcript_id "Sample_TB-2463-32A_XenofilteR.2.1"; cov "48.414490"; FPKM "7245.064453"; TPM "10080.416016";
+contig001381	StringTie	exon	13902	14129	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.2"; transcript_id "Sample_TB-2463-32A_XenofilteR.2.1"; exon_number "1"; cov "48.414490";
+contig001976	StringTie	transcript	34	263	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.3"; transcript_id "Sample_TB-2463-32A_XenofilteR.3.1"; cov "57.127811"; FPKM "8548.983398"; TPM "11894.623047";
+contig001976	StringTie	exon	34	263	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.3"; transcript_id "Sample_TB-2463-32A_XenofilteR.3.1"; exon_number "1"; cov "57.127811";
+contig002710	StringTie	transcript	1	1215	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.4"; transcript_id "Sample_TB-2463-32A_XenofilteR.4.1"; cov "290.538422"; FPKM "43478.089844"; TPM "60493.218750";
+contig002710	StringTie	exon	1	1215	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.4"; transcript_id "Sample_TB-2463-32A_XenofilteR.4.1"; exon_number "1"; cov "290.538422";
+contig002721	StringTie	transcript	9166	9442	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.5"; transcript_id "Sample_TB-2463-32A_XenofilteR.5.1"; cov "13.025270"; FPKM "1949.187622"; TPM "2712.000977";
+contig002721	StringTie	exon	9166	9442	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.5"; transcript_id "Sample_TB-2463-32A_XenofilteR.5.1"; exon_number "1"; cov "13.025270";
+contig002715	StringTie	transcript	4	425	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.6"; transcript_id "Sample_TB-2463-32A_XenofilteR.6.1"; cov "333.655670"; FPKM "49930.437500"; TPM "69470.695312";
+contig002715	StringTie	exon	4	425	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.6"; transcript_id "Sample_TB-2463-32A_XenofilteR.6.1"; exon_number "1"; cov "333.655670";
+contig002715	StringTie	transcript	1091	1892	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.7"; transcript_id "Sample_TB-2463-32A_XenofilteR.7.1"; cov "482.896973"; FPKM "72263.890625"; TPM "100544.328125";
+contig002715	StringTie	exon	1091	1892	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.7"; transcript_id "Sample_TB-2463-32A_XenofilteR.7.1"; exon_number "1"; cov "482.896973";
+contig002715	StringTie	transcript	2094	2765	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.8"; transcript_id "Sample_TB-2463-32A_XenofilteR.8.1"; cov "377.535980"; FPKM "56496.980469"; TPM "78607.039062";
+contig002715	StringTie	exon	2094	2765	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.8"; transcript_id "Sample_TB-2463-32A_XenofilteR.8.1"; exon_number "1"; cov "377.535980";
+contig002997	StringTie	transcript	13055	13533	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.9"; transcript_id "Sample_TB-2463-32A_XenofilteR.9.1"; cov "247.626160"; FPKM "37056.414062"; TPM "51558.421875";
+contig002997	StringTie	exon	13055	13533	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.9"; transcript_id "Sample_TB-2463-32A_XenofilteR.9.1"; exon_number "1"; cov "247.626160";
+contig003869	StringTie	transcript	7040	7339	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.10"; transcript_id "Sample_TB-2463-32A_XenofilteR.10.1"; cov "81.224388"; FPKM "12154.954102"; TPM "16911.789062";
+contig003869	StringTie	exon	7040	7339	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.10"; transcript_id "Sample_TB-2463-32A_XenofilteR.10.1"; exon_number "1"; cov "81.224388";
+contig003869	StringTie	transcript	7969	8521	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.11"; transcript_id "Sample_TB-2463-32A_XenofilteR.11.1"; cov "65.076614"; FPKM "9738.494141"; TPM "13549.649414";
+contig003869	StringTie	exon	7969	8521	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.11"; transcript_id "Sample_TB-2463-32A_XenofilteR.11.1"; exon_number "1"; cov "65.076614";
+contig004237	StringTie	transcript	1	1650	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.12"; transcript_id "Sample_TB-2463-32A_XenofilteR.12.1"; cov "342.285553"; FPKM "51221.871094"; TPM "71267.531250";
+contig004237	StringTie	exon	1	1650	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.12"; transcript_id "Sample_TB-2463-32A_XenofilteR.12.1"; exon_number "1"; cov "342.285553";
+contig006570	StringTie	transcript	1	1219	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.13"; transcript_id "Sample_TB-2463-32A_XenofilteR.13.1"; cov "274.314087"; FPKM "41050.171875"; TPM "57115.136719";
+contig006570	StringTie	exon	1	1219	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.13"; transcript_id "Sample_TB-2463-32A_XenofilteR.13.1"; exon_number "1"; cov "274.314087";
+contig000693	StringTie	transcript	17470	17699	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.14"; transcript_id "Sample_TB-2463-32A_XenofilteR.14.1"; cov "57.795990"; FPKM "8648.973633"; TPM "12033.745117";
+contig000693	StringTie	exon	17470	17699	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.14"; transcript_id "Sample_TB-2463-32A_XenofilteR.14.1"; exon_number "1"; cov "57.795990";
+contig008316	StringTie	transcript	151	731	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.15"; transcript_id "Sample_TB-2463-32A_XenofilteR.15.1"; cov "761.773254"; FPKM "113996.781250"; TPM "158609.359375";
+contig008316	StringTie	exon	151	731	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.15"; transcript_id "Sample_TB-2463-32A_XenofilteR.15.1"; exon_number "1"; cov "761.773254";
+contig008316	StringTie	transcript	1131	2083	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.16"; transcript_id "Sample_TB-2463-32A_XenofilteR.16.1"; cov "417.825348"; FPKM "62526.148438"; TPM "86995.718750";
+contig008316	StringTie	exon	1131	2083	1000	-	.	gene_id "Sample_TB-2463-32A_XenofilteR.16"; transcript_id "Sample_TB-2463-32A_XenofilteR.16.1"; exon_number "1"; cov "417.825348";
+contig008316	StringTie	transcript	2957	3160	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.17"; transcript_id "Sample_TB-2463-32A_XenofilteR.17.1"; cov "100.470589"; FPKM "15035.083008"; TPM "20919.054688";
+contig008316	StringTie	exon	2957	3160	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.17"; transcript_id "Sample_TB-2463-32A_XenofilteR.17.1"; exon_number "1"; cov "100.470589";
+contig008316	StringTie	transcript	3634	4379	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.18"; transcript_id "Sample_TB-2463-32A_XenofilteR.18.1"; cov "706.395264"; FPKM "105709.648438"; TPM "147079.078125";
+contig008316	StringTie	exon	3634	4379	1000	+	.	gene_id "Sample_TB-2463-32A_XenofilteR.18"; transcript_id "Sample_TB-2463-32A_XenofilteR.18.1"; exon_number "1"; cov "706.395264";

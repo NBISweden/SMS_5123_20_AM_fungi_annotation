@@ -1,0 +1,1 @@
+/home/nimar/SMS_5123_20_AM_fungi_annotation/intermediate/featureCounts/GSNAP_Merged_XenofilteR_assembly1/merged_gene_counts.txt
