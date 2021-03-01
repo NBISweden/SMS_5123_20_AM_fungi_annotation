@@ -26,7 +26,7 @@ params:
   staff_web: https://nbis.se/about/staff/nima-rafati/
   uppmax_project: snic2020-16-21 (Storage) snic2020-5-245 (Computation)
   estimated_time: 100
-  used_time: ??
+  used_time: 83
 ---
 <!-- \begin{center} -->
 <!-- Redmine issue:              `r params$redmine_issue` -->
@@ -259,7 +259,7 @@ include_graphics("../../results/03-Expression-Transcriptome-Assembly/featurecoun
 ```
 \newpage
 # Concluding remarks
-The pipeline implemented in this project seem to improve the assignment of reads to two different genomes (AM_Fungi and Sorghum). However, QC of the resutls suggest that there is a very minor improvement in annotation using RNA-seq data. One of the concern is very small fraction of reads generated from AM_Fungi in the samples. Figure \@ref(fig:featurecountssummary) shows fraction of reads that are assigned to different features on the genome. "Assigned" shows fraction of reads that are uniquely assigned to features (genes). While there are many reads that are mapped on different places which cannot be sed for downstream expression analysis or annotation.  
+The pipeline implemented in this project seem to improve the assignment of reads to two different genomes (AM_Fungi and Sorghum). However, QC of the results suggest that there is a very minor improvement in annotation using RNA-seq data. One of the concern is very small fraction of reads generated from AM_Fungi in the samples. Figure \@ref(fig:featurecountssummary) shows fraction of reads that are assigned to different features on the genome. "Assigned" shows fraction of reads that are uniquely assigned to features (genes). While there are many reads that are mapped on different places which cannot be used for downstream expression analysis or annotation.  
 
 All the scripts, this report, and results are available on Uppmax:  
 _/crex/proj/uppstore2017083/private/SMS_5123_20_AM_fungi_annotation/_  
