@@ -208,7 +208,11 @@ kable(samples, booktabs = T, caption = 'Summary of sequencing data; Number of tr
 
 ## QC 
 The QC results is available in _/crex/proj/uppstore2017083/private/SMS_5123_20_AM_fungi_annotation/results/00-QC/_ 
-The duplication rate is a bit high in the raw reads (Please check the multiQC report). 
+The duplication rate is a bit high in the raw reads (Please check the multiQC report) (Figure \@ref(fig:multiqc)).
+```{r multiqc, out.width = "85%", fig.align="center", fig.cap = "Fraction of duplicaetd reads.", echo = F, crop = F}
+library(knitr)
+include_graphics("../../results/00-QC/FastQC/Duplicate_reads.png")
+```
 
 ## Trimming
 By using Trimmomatic, we kept reads that both pairs survived the trimming and  reads with +36 bases length. Trimmed reads are located in   
@@ -265,7 +269,7 @@ All the scripts, this report, and results are available on Uppmax:
 _/crex/proj/uppstore2017083/private/SMS_5123_20_AM_fungi_annotation/_  
 
 Also you can find scripts and this report and results (except bam files) on github:  
-_https://github.com/NBISweden/SMS_5123_20_AM_fungi_annotation_
+https://github.com/NBISweden/SMS_5123_20_AM_fungi_annotation
 
 Scripts are under _doc_:  
 generate_commands_GSNAP_Sorghum.sh for alignment of reads on Sorghum genome.  
