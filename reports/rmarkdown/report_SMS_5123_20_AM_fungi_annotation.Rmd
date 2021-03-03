@@ -26,7 +26,7 @@ params:
   staff_web: https://nbis.se/about/staff/nima-rafati/
   uppmax_project: snic2020-16-21 (Storage) snic2020-5-245 (Computation)
   estimated_time: 100
-  used_time: 83
+  used_time: 85
 ---
 <!-- \begin{center} -->
 <!-- Redmine issue:              `r params$redmine_issue` -->
